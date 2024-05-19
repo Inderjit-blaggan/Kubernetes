@@ -7,3 +7,4 @@ Welcome to the Kubernetes Cluster Management project! This repository contains r
 ## Table of Contents
 
 1. [GKE Cluster](https://github.com/Inderjit-blaggan/Kubernetes/tree/main/GKE) 
+2. [AWS EKS Cluster](https://github.com/Inderjit-blaggan/Kubernetes/tree/main/AWS_EKS)
